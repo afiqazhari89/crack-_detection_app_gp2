@@ -1,5 +1,5 @@
 streamlit
-opencv-phyton
+opencv-python
 numpy
 joblib
 fpdf
