@@ -1,0 +1,8 @@
+streamlit
+opencv-phyton
+numpy
+joblib
+fpdf
+Pillow
+matplotlib
+scikit-learn
